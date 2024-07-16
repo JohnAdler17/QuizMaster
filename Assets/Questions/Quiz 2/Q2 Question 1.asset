@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ca6a88a1a4b604885ca463459c8ad1, type: 3}
+  m_Name: Q2 Question 1
+  m_EditorClassIdentifier: 
+  question: Who is the superhero commonly called the "Man of Steel?"
+  answers:
+  - Superman
+  - Batman
+  - Iron Man
+  - The Silver Surfer
+  answerIndex: 0
+  questionImage: {fileID: 21300000, guid: bc2e9d2b823929343aa61176e81e319e, type: 3}
+  answerImage: {fileID: 21300000, guid: 26e01db5d2df56948bda2746b49ae1cd, type: 3}

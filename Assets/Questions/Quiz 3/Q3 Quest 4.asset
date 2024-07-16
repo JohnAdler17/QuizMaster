@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ca6a88a1a4b604885ca463459c8ad1, type: 3}
+  m_Name: Q3 Quest 4
+  m_EditorClassIdentifier: 
+  question: 'Finish the blanks: "Wultuh, ____, I''m not _____."'
+  answers:
+  - you're Heisenberg/Heisenberg
+  - put your dick away Wultuh/tryna have sex with you right now Wultuh
+  - you're not killing Gus/gonna let you do that
+  - this is my pimento sandwich/showing you how to make it
+  answerIndex: 1
+  questionImage: {fileID: 21300000, guid: 15b96dc6f039fd04b9b6bf9f49bd33d3, type: 3}
+  answerImage: {fileID: 21300000, guid: b10e9ac293e2fcf4c924786c4eee08c7, type: 3}

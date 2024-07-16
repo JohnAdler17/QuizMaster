@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ca6a88a1a4b604885ca463459c8ad1, type: 3}
+  m_Name: Question 26
+  m_EditorClassIdentifier: 
+  question: Identify this pokemon.
+  answers:
+  - A Pokeball!
+  - Voltorb
+  - Electrode
+  - Jigglypuff seen from above
+  answerIndex: 3
+  questionImage: {fileID: 21300000, guid: 6075af174eec62c49b783a40561c555d, type: 3}
+  answerImage: {fileID: 21300000, guid: efef37421970ed34d97cf8a0bec44c6a, type: 3}

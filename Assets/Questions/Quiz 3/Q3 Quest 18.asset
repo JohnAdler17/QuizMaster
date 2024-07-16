@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ca6a88a1a4b604885ca463459c8ad1, type: 3}
+  m_Name: Q3 Quest 18
+  m_EditorClassIdentifier: 
+  question: Where is the money, Skyler? SKYLER. WHERE IS THE MONEY???
+  answers:
+  - She hid it in a warehouse.
+  - She laundered it through the laundry.
+  - She tucked it in an even safer place.
+  - She gave it to Ted.
+  answerIndex: 3
+  questionImage: {fileID: 21300000, guid: 6d4011ed7c552f74cbd317f3db9660d5, type: 3}
+  answerImage: {fileID: 21300000, guid: 935dfe00234584d4c8967e9554155e9a, type: 3}

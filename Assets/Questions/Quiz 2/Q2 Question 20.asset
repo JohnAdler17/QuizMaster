@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3ca6a88a1a4b604885ca463459c8ad1, type: 3}
+  m_Name: Q2 Question 20
+  m_EditorClassIdentifier: 
+  question: What is the extremely hard metal used frequently in the MCU?
+  answers:
+  - Unobtanium
+  - Vibranium
+  - Adamantium
+  - Tunstin
+  answerIndex: 1
+  questionImage: {fileID: 21300000, guid: 2c3262a2f507ce34c804b14b5be6a7fa, type: 3}
+  answerImage: {fileID: 21300000, guid: c3903b02487869b45adc11545aa55849, type: 3}
